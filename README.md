@@ -12,7 +12,7 @@ Escopo:
 - Permitir criar, listar e remover tarefas
 - Utilizar GitHub para controle de versões e gestão ágil
 
-Metodologia uyilizada:
+Metodologia utilizada:
 
 Kanban, utilizando o GitHub Projects.
 
